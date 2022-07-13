@@ -1,0 +1,12 @@
+{
+  "name": "airyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC"
+}
